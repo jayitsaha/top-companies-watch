@@ -1,0 +1,95 @@
+name: top companies watch
+
+on:
+  schedule:
+    - cron: "30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: top-companies-watch
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        batch: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Run scan batch ${{ matrix.batch }}
+        run: node scripts/scan-leg.mjs ${{ matrix.batch }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: leg-batch-${{ matrix.batch }}
+          path: leg-output/batch-${{ matrix.batch }}
+
+  aggregate:
+    needs: scan
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - uses: actions/download-artifact@v4
+        with:
+          path: leg-output
+          pattern: "leg-batch-*"
+
+      - name: Flatten downloaded artifact folders
+        run: |
+          cd leg-output
+          for d in leg-batch-*/; do
+            name="${d#leg-}"
+            name="${name%/}"
+            if [ "$d" != "$name/" ]; then
+              mkdir -p "../leg-output-flat/$name"
+              cp -r "$d"* "../leg-output-flat/$name/" 2>/dev/null || true
+            fi
+          done
+          cd ..
+          rm -rf leg-output
+          mv leg-output-flat leg-output
+          ls -la leg-output
+
+      - name: Aggregate, summarize, and notify
+        env:
+          NIM_API_KEYS: ${{ secrets.NIM_API_KEYS }}
+          NIM_MODEL: ${{ vars.NIM_MODEL }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node scripts/aggregate-and-notify.mjs
+
+      - name: Commit updated state
+        run: |
+          git config user.name "top-companies-watch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update top-companies-watch state [skip ci]"
+            git push
+          else
+            echo "No state changes to commit."
+          fi
+
+      - name: Alert on failure
+        if: failure()
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          RUN_URL="${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+          curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\": \"${TELEGRAM_CHAT_ID}\", \"text\": \"[top-companies-watch] Workflow run FAILED. Check logs: ${RUN_URL}\"}"

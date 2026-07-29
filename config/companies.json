@@ -1,0 +1,1954 @@
+[
+  {
+    "name": "NVIDIA",
+    "source": "curated_ranked",
+    "score": 0.7317,
+    "careers_url": "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite",
+    "provider": "workday"
+  },
+  {
+    "name": "Google",
+    "source": "curated_ranked",
+    "score": 0.7217,
+    "careers_url": "https://google.wd5.myworkdayjobs.com/gocjobs",
+    "provider": "workday"
+  },
+  {
+    "name": "Meta",
+    "source": "curated_ranked",
+    "score": 0.7117,
+    "careers_url": "https://job-boards.greenhouse.io/metaco",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "OpenAI",
+    "source": "curated_ranked",
+    "score": 0.705,
+    "careers_url": "https://jobs.ashbyhq.com/openai",
+    "provider": "ashby"
+  },
+  {
+    "name": "Anthropic",
+    "source": "curated_ranked",
+    "score": 0.705,
+    "careers_url": "https://job-boards.greenhouse.io/anthropic",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Microsoft",
+    "source": "curated_ranked",
+    "score": 0.7017,
+    "careers_url": "https://careers-microsoft.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Runway",
+    "source": "curated_ranked",
+    "score": 0.6717,
+    "careers_url": "https://jobs.ashbyhq.com/runway",
+    "provider": "ashby"
+  },
+  {
+    "name": "Netflix",
+    "source": "curated_ranked",
+    "score": 0.665,
+    "careers_url": "https://netflix.wd1.myworkdayjobs.com/netflix",
+    "provider": "workday"
+  },
+  {
+    "name": "Scale AI",
+    "source": "curated_ranked",
+    "score": 0.655,
+    "careers_url": "https://job-boards.greenhouse.io/scaleai",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Jane Street",
+    "source": "curated_ranked",
+    "score": 0.655,
+    "careers_url": "https://job-boards.greenhouse.io/janestreet",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Jump Trading",
+    "source": "curated_ranked",
+    "score": 0.655,
+    "careers_url": "https://job-boards.greenhouse.io/jumptrading",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Databricks",
+    "source": "curated_ranked",
+    "score": 0.645,
+    "careers_url": "https://job-boards.greenhouse.io/databricks",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Snowflake",
+    "source": "curated_ranked",
+    "score": 0.6317,
+    "careers_url": "https://jobs.ashbyhq.com/snowflake",
+    "provider": "ashby"
+  },
+  {
+    "name": "Adobe",
+    "source": "curated_ranked",
+    "score": 0.625,
+    "careers_url": "https://adobe.wd5.myworkdayjobs.com/adobe_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "IMC",
+    "source": "curated_ranked",
+    "score": 0.625,
+    "careers_url": "https://job-boards.greenhouse.io/imc",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Uber",
+    "source": "curated_ranked",
+    "score": 0.625,
+    "careers_url": "https://careers-uber.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Palantir",
+    "source": "curated_ranked",
+    "score": 0.625,
+    "careers_url": "https://jobs.lever.co/palantir",
+    "provider": "lever"
+  },
+  {
+    "name": "Gong",
+    "source": "curated_ranked",
+    "score": 0.62,
+    "careers_url": "https://jobs.lever.co/gong",
+    "provider": "lever"
+  },
+  {
+    "name": "Shopify",
+    "source": "curated_ranked",
+    "score": 0.615,
+    "careers_url": "https://jobs.lever.co/shopify",
+    "provider": "lever"
+  },
+  {
+    "name": "Discord",
+    "source": "curated_ranked",
+    "score": 0.615,
+    "careers_url": "https://job-boards.greenhouse.io/discord",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Tempus",
+    "source": "curated_ranked",
+    "score": 0.6117,
+    "careers_url": "https://tempus.wd5.myworkdayjobs.com/ambry_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Together AI",
+    "source": "curated_ranked",
+    "score": 0.605,
+    "careers_url": "https://job-boards.greenhouse.io/togetherai",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Cohere",
+    "source": "curated_ranked",
+    "score": 0.605,
+    "careers_url": "https://jobs.ashbyhq.com/cohere",
+    "provider": "ashby"
+  },
+  {
+    "name": "Perplexity AI",
+    "source": "curated_ranked",
+    "score": 0.605,
+    "careers_url": "https://job-boards.greenhouse.io/perplexityai",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Salesforce",
+    "source": "curated_ranked",
+    "score": 0.595,
+    "careers_url": "https://salesforce.wd12.myworkdayjobs.com/external_career_site",
+    "provider": "workday"
+  },
+  {
+    "name": "Intel",
+    "source": "curated_ranked",
+    "score": 0.595,
+    "careers_url": "https://intel.wd1.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "Qualcomm",
+    "source": "curated_ranked",
+    "score": 0.595,
+    "careers_url": "https://qualcomm.wd5.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "Descript",
+    "source": "curated_ranked",
+    "score": 0.595,
+    "careers_url": "https://job-boards.greenhouse.io/descript",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Harvey",
+    "source": "curated_ranked",
+    "score": 0.58,
+    "careers_url": "https://jobs.ashbyhq.com/harvey",
+    "provider": "ashby"
+  },
+  {
+    "name": "xAI",
+    "source": "curated_ranked",
+    "score": 0.58,
+    "careers_url": "https://job-boards.greenhouse.io/xai",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Darktrace",
+    "source": "curated_ranked",
+    "score": 0.5783,
+    "careers_url": "https://darktrace.wd3.myworkdayjobs.com/darktaceexternal",
+    "provider": "workday"
+  },
+  {
+    "name": "Boston Dynamics",
+    "source": "curated_ranked",
+    "score": 0.5783,
+    "careers_url": "https://bostondynamics.wd1.myworkdayjobs.com/boston_dynamics",
+    "provider": "workday"
+  },
+  {
+    "name": "Waymo",
+    "source": "curated_ranked",
+    "score": 0.575,
+    "careers_url": "https://job-boards.greenhouse.io/waymo",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Pinecone",
+    "source": "curated_ranked",
+    "score": 0.57,
+    "careers_url": "https://jobs.ashbyhq.com/pinecone",
+    "provider": "ashby"
+  },
+  {
+    "name": "Glean",
+    "source": "curated_ranked",
+    "score": 0.57,
+    "careers_url": "https://job-boards.greenhouse.io/glean",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Figure AI",
+    "source": "curated_ranked",
+    "score": 0.57,
+    "careers_url": "https://job-boards.greenhouse.io/figureai",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Stripe",
+    "source": "curated_ranked",
+    "score": 0.5683,
+    "careers_url": "https://job-boards.greenhouse.io/stripe",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Stability AI",
+    "source": "curated_ranked",
+    "score": 0.56,
+    "careers_url": "https://job-boards.greenhouse.io/stabilityai",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "ElevenLabs",
+    "source": "curated_ranked",
+    "score": 0.56,
+    "careers_url": "https://jobs.ashbyhq.com/elevenlabs",
+    "provider": "ashby"
+  },
+  {
+    "name": "Twelve Labs",
+    "source": "curated_ranked",
+    "score": 0.56,
+    "careers_url": "https://jobs.ashbyhq.com/twelve-labs",
+    "provider": "ashby"
+  },
+  {
+    "name": "Synthesia",
+    "source": "curated_ranked",
+    "score": 0.56,
+    "careers_url": "https://jobs.ashbyhq.com/synthesia",
+    "provider": "ashby"
+  },
+  {
+    "name": "Point72",
+    "source": "curated_ranked",
+    "score": 0.5583,
+    "careers_url": "https://job-boards.greenhouse.io/point72",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Airbnb",
+    "source": "curated_ranked",
+    "score": 0.5583,
+    "careers_url": "https://job-boards.greenhouse.io/airbnb",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Coinbase",
+    "source": "curated_ranked",
+    "score": 0.5583,
+    "careers_url": "https://job-boards.greenhouse.io/coinbase",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Brex",
+    "source": "curated_ranked",
+    "score": 0.5583,
+    "careers_url": "https://job-boards.greenhouse.io/brex",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "MongoDB",
+    "source": "curated_ranked",
+    "score": 0.555,
+    "careers_url": "https://job-boards.greenhouse.io/mongodb",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Elastic",
+    "source": "curated_ranked",
+    "score": 0.555,
+    "careers_url": "https://job-boards.greenhouse.io/elastic",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Plaid",
+    "source": "curated_ranked",
+    "score": 0.555,
+    "careers_url": "https://jobs.ashbyhq.com/plaid",
+    "provider": "ashby"
+  },
+  {
+    "name": "Confluent",
+    "source": "curated_ranked",
+    "score": 0.555,
+    "careers_url": "https://jobs.ashbyhq.com/confluent",
+    "provider": "ashby"
+  },
+  {
+    "name": "Etsy",
+    "source": "curated_ranked",
+    "score": 0.555,
+    "careers_url": "https://etsy.wd5.myworkdayjobs.com/depop_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Cruise",
+    "source": "curated_ranked",
+    "score": 0.555,
+    "careers_url": "https://job-boards.greenhouse.io/cruise",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Graphcore",
+    "source": "curated_ranked",
+    "score": 0.5533,
+    "careers_url": "https://job-boards.greenhouse.io/graphcore",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Chainalysis",
+    "source": "curated_ranked",
+    "score": 0.5533,
+    "careers_url": "https://jobs.ashbyhq.com/chainalysis",
+    "provider": "ashby"
+  },
+  {
+    "name": "DoorDash",
+    "source": "curated_ranked",
+    "score": 0.5483,
+    "careers_url": "https://job-boards.greenhouse.io/doordash",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Datadog",
+    "source": "curated_ranked",
+    "score": 0.5483,
+    "careers_url": "https://job-boards.greenhouse.io/datadog",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Figma",
+    "source": "curated_ranked",
+    "score": 0.5483,
+    "careers_url": "https://job-boards.greenhouse.io/figma",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Lyft",
+    "source": "curated_ranked",
+    "score": 0.5483,
+    "careers_url": "https://job-boards.greenhouse.io/lyft",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Affirm",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://job-boards.greenhouse.io/affirm",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Zscaler",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://job-boards.greenhouse.io/zscaler",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "SoFi",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://job-boards.greenhouse.io/sofi",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Canva",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://jobs.lever.co/canva",
+    "provider": "lever"
+  },
+  {
+    "name": "Kraken",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://jobs.lever.co/kraken",
+    "provider": "lever"
+  },
+  {
+    "name": "Yelp",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://jobs.lever.co/yelp",
+    "provider": "lever"
+  },
+  {
+    "name": "Stitch Fix",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://job-boards.greenhouse.io/stitchfix",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Wiz",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://job-boards.greenhouse.io/wizinc",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Snyk",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://job-boards.greenhouse.io/snyk",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Materialize",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://job-boards.greenhouse.io/materialize",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Starburst",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://job-boards.greenhouse.io/starburst",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Klaviyo",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://job-boards.greenhouse.io/klaviyo",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Zendesk",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://zendesk.wd1.myworkdayjobs.com/zendesk",
+    "provider": "workday"
+  },
+  {
+    "name": "Intercom",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://job-boards.greenhouse.io/intercom",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Flexport",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://job-boards.greenhouse.io/flexport",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Anduril Industries",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://job-boards.greenhouse.io/andurilindustries",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Grubhub",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://grubhub.wd1.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "SailPoint",
+    "source": "curated_ranked",
+    "score": 0.545,
+    "careers_url": "https://sailpoint.wd1.myworkdayjobs.com/sailpoint",
+    "provider": "workday"
+  },
+  {
+    "name": "Block",
+    "source": "curated_ranked",
+    "score": 0.5383,
+    "careers_url": "https://job-boards.greenhouse.io/block",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "CrowdStrike",
+    "source": "curated_ranked",
+    "score": 0.5383,
+    "careers_url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
+    "provider": "workday"
+  },
+  {
+    "name": "Roblox",
+    "source": "curated_ranked",
+    "score": 0.5383,
+    "careers_url": "https://job-boards.greenhouse.io/roblox",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Robinhood",
+    "source": "curated_ranked",
+    "score": 0.5383,
+    "careers_url": "https://job-boards.greenhouse.io/robinhood",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Instacart",
+    "source": "curated_ranked",
+    "score": 0.5383,
+    "careers_url": "https://job-boards.greenhouse.io/instacart",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Cursor",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://jobs.ashbyhq.com/cursor",
+    "provider": "ashby"
+  },
+  {
+    "name": "Mixpanel",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://job-boards.greenhouse.io/mixpanel",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Braze",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://job-boards.greenhouse.io/braze",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Toast",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://job-boards.greenhouse.io/toast",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "1Password",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://jobs.ashbyhq.com/1password",
+    "provider": "ashby"
+  },
+  {
+    "name": "Sentry",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://jobs.ashbyhq.com/sentry",
+    "provider": "ashby"
+  },
+  {
+    "name": "Zapier",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://jobs.ashbyhq.com/zapier",
+    "provider": "ashby"
+  },
+  {
+    "name": "Joby Aviation",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://careers-jobyaviation.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Tenable",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://job-boards.greenhouse.io/tenableinc",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Qualys",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://qualys.wd5.myworkdayjobs.com/careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Jamf",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://job-boards.greenhouse.io/jamf",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Squarespace",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://job-boards.greenhouse.io/squarespace",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "BigCommerce",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://bigcommerce.wd12.myworkdayjobs.com/bigcommerce",
+    "provider": "workday"
+  },
+  {
+    "name": "Sierra",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://jobs.ashbyhq.com/sierra",
+    "provider": "ashby"
+  },
+  {
+    "name": "Suno",
+    "source": "curated_ranked",
+    "score": 0.535,
+    "careers_url": "https://jobs.ashbyhq.com/suno",
+    "provider": "ashby"
+  },
+  {
+    "name": "Inflection AI",
+    "source": "curated_ranked",
+    "score": 0.53,
+    "careers_url": "https://job-boards.greenhouse.io/inflectionai",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Insitro",
+    "source": "curated_ranked",
+    "score": 0.53,
+    "careers_url": "https://jobs.ashbyhq.com/insitro",
+    "provider": "ashby"
+  },
+  {
+    "name": "PayPal",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://paypal.wd1.myworkdayjobs.com/jobs",
+    "provider": "workday"
+  },
+  {
+    "name": "Twilio",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://job-boards.greenhouse.io/twilio",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Okta",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://job-boards.greenhouse.io/okta",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Pinterest",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://job-boards.greenhouse.io/pinterest",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Reddit",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://jobs.ashbyhq.com/reddit",
+    "provider": "ashby"
+  },
+  {
+    "name": "Cloudflare",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://job-boards.greenhouse.io/cloudflare",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Atlassian",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://jobs.lever.co/atlassian",
+    "provider": "lever"
+  },
+  {
+    "name": "Duolingo",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://job-boards.greenhouse.io/duolingo",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Chime",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://job-boards.greenhouse.io/chime",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Gusto",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://job-boards.greenhouse.io/gusto",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Workday",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://workday.wd5.myworkdayjobs.com/workday",
+    "provider": "workday"
+  },
+  {
+    "name": "Fivetran",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://job-boards.greenhouse.io/fivetran",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Amplitude",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://job-boards.greenhouse.io/amplitude",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "dbt Labs",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://job-boards.greenhouse.io/dbtlabsinc",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Grammarly",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://job-boards.greenhouse.io/grammarly",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Zoom",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://zoom.wd5.myworkdayjobs.com/zoom",
+    "provider": "workday"
+  },
+  {
+    "name": "Dropbox",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://job-boards.greenhouse.io/dropbox",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Anyscale",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://jobs.ashbyhq.com/anyscale",
+    "provider": "ashby"
+  },
+  {
+    "name": "Vanta",
+    "source": "curated_ranked",
+    "score": 0.5283,
+    "careers_url": "https://jobs.ashbyhq.com/vanta",
+    "provider": "ashby"
+  },
+  {
+    "name": "Carvana",
+    "source": "curated_ranked",
+    "score": 0.525,
+    "careers_url": "https://job-boards.greenhouse.io/carvana",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Turo",
+    "source": "curated_ranked",
+    "score": 0.525,
+    "careers_url": "https://turo.wd12.myworkdayjobs.com/turo_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Cisco",
+    "source": "curated_ranked",
+    "score": 0.5183,
+    "careers_url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "DeepL",
+    "source": "curated_ranked",
+    "score": 0.5183,
+    "careers_url": "https://jobs.ashbyhq.com/deepl",
+    "provider": "ashby"
+  },
+  {
+    "name": "Abnormal Security",
+    "source": "curated_ranked",
+    "score": 0.5183,
+    "careers_url": "https://job-boards.greenhouse.io/abnormalsecurity",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "CodeSignal",
+    "source": "curated_ranked",
+    "score": 0.5183,
+    "careers_url": "https://job-boards.greenhouse.io/codesignal",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Gemini",
+    "source": "curated_ranked",
+    "score": 0.505,
+    "careers_url": "https://job-boards.greenhouse.io/gemini",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Ramp",
+    "source": "curated_ranked",
+    "score": 0.4983,
+    "careers_url": "https://jobs.ashbyhq.com/ramp",
+    "provider": "ashby"
+  },
+  {
+    "name": "LangChain",
+    "source": "curated_ranked",
+    "score": 0.4933,
+    "careers_url": "https://jobs.ashbyhq.com/langchain",
+    "provider": "ashby"
+  },
+  {
+    "name": "AssemblyAI",
+    "source": "curated_ranked",
+    "score": 0.4933,
+    "careers_url": "https://job-boards.greenhouse.io/assemblyai",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Jasper",
+    "source": "curated_ranked",
+    "score": 0.4933,
+    "careers_url": "https://jobs.ashbyhq.com/jasper",
+    "provider": "ashby"
+  },
+  {
+    "name": "Roboflow",
+    "source": "curated_ranked",
+    "score": 0.4933,
+    "careers_url": "https://jobs.ashbyhq.com/roboflow",
+    "provider": "ashby"
+  },
+  {
+    "name": "Superannotate",
+    "source": "curated_ranked",
+    "score": 0.4933,
+    "careers_url": "https://jobs.lever.co/superannotate",
+    "provider": "lever"
+  },
+  {
+    "name": "Groq",
+    "source": "curated_ranked",
+    "score": 0.4933,
+    "careers_url": "https://job-boards.greenhouse.io/groq",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Labelbox",
+    "source": "curated_ranked",
+    "score": 0.4933,
+    "careers_url": "https://job-boards.greenhouse.io/labelbox",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "PostHog",
+    "source": "curated_ranked",
+    "score": 0.4883,
+    "careers_url": "https://jobs.ashbyhq.com/posthog",
+    "provider": "ashby"
+  },
+  {
+    "name": "WorldQuant",
+    "source": "curated_ranked",
+    "score": 0.4783,
+    "careers_url": "https://job-boards.greenhouse.io/worldquant",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Notion",
+    "source": "curated_ranked",
+    "score": 0.4717,
+    "careers_url": "https://jobs.ashbyhq.com/notion",
+    "provider": "ashby"
+  },
+  {
+    "name": "Vercel",
+    "source": "curated_ranked",
+    "score": 0.4683,
+    "careers_url": "https://job-boards.greenhouse.io/vercel",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Netlify",
+    "source": "curated_ranked",
+    "score": 0.4683,
+    "careers_url": "https://job-boards.greenhouse.io/netlify",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Replit",
+    "source": "curated_ranked",
+    "score": 0.4683,
+    "careers_url": "https://jobs.ashbyhq.com/replit",
+    "provider": "ashby"
+  },
+  {
+    "name": "Pulumi",
+    "source": "curated_ranked",
+    "score": 0.4683,
+    "careers_url": "https://job-boards.greenhouse.io/pulumicorporation",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Modal",
+    "source": "curated_ranked",
+    "score": 0.4683,
+    "careers_url": "https://jobs.ashbyhq.com/modal",
+    "provider": "ashby"
+  },
+  {
+    "name": "HashiCorp",
+    "source": "curated_ranked",
+    "score": 0.4617,
+    "careers_url": "https://job-boards.greenhouse.io/hashicorp",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Cockroach Labs",
+    "source": "curated_ranked",
+    "score": 0.4617,
+    "careers_url": "https://job-boards.greenhouse.io/cockroachlabs",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Locus Robotics",
+    "source": "curated_ranked",
+    "score": 0.4583,
+    "careers_url": "https://job-boards.greenhouse.io/locusrobotics",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Replicate",
+    "source": "curated_ranked",
+    "score": 0.4583,
+    "careers_url": "https://jobs.ashbyhq.com/replicate",
+    "provider": "ashby"
+  },
+  {
+    "name": "Codeium",
+    "source": "curated_ranked",
+    "score": 0.4583,
+    "careers_url": "https://jobs.ashbyhq.com/codeium",
+    "provider": "ashby"
+  },
+  {
+    "name": "Workato",
+    "source": "curated_ranked",
+    "score": 0.4267,
+    "careers_url": "https://job-boards.greenhouse.io/workato",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Weaviate",
+    "source": "curated_ranked",
+    "score": 0.4267,
+    "careers_url": "https://jobs.ashbyhq.com/weaviate",
+    "provider": "ashby"
+  },
+  {
+    "name": "Seldon",
+    "source": "curated_ranked",
+    "score": 0.4267,
+    "careers_url": "https://job-boards.greenhouse.io/seldon",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Retool",
+    "source": "curated_ranked",
+    "score": 0.4217,
+    "careers_url": "https://job-boards.greenhouse.io/retool",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Deel",
+    "source": "curated_ranked",
+    "score": 0.4217,
+    "careers_url": "https://jobs.ashbyhq.com/deel",
+    "provider": "ashby"
+  },
+  {
+    "name": "DeepMind",
+    "source": "curated_ranked",
+    "score": 0.405,
+    "careers_url": "https://job-boards.greenhouse.io/deepmind",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Linear",
+    "source": "curated_ranked",
+    "score": 0.3917,
+    "careers_url": "https://jobs.ashbyhq.com/linear",
+    "provider": "ashby"
+  },
+  {
+    "name": "BentoML",
+    "source": "curated_ranked",
+    "score": 0.3917,
+    "careers_url": "https://jobs.ashbyhq.com/bentoml",
+    "provider": "ashby"
+  },
+  {
+    "name": "AES",
+    "source": "fortune500",
+    "careers_url": "https://aes.wd1.myworkdayjobs.com/aes_andes",
+    "provider": "workday"
+  },
+  {
+    "name": "AGCO",
+    "source": "fortune500",
+    "careers_url": "https://ag.wd3.myworkdayjobs.com/airbus",
+    "provider": "workday"
+  },
+  {
+    "name": "Albemarle",
+    "source": "fortune500",
+    "careers_url": "https://albemarle.wd5.myworkdayjobs.com/albcollegerecruiting",
+    "provider": "workday"
+  },
+  {
+    "name": "Alcoa",
+    "source": "fortune500",
+    "careers_url": "https://alcoa.wd5.myworkdayjobs.com/careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Allstate",
+    "source": "fortune500",
+    "careers_url": "https://allstate.wd5.myworkdayjobs.com/agent",
+    "provider": "workday"
+  },
+  {
+    "name": "Ameren",
+    "source": "fortune500",
+    "careers_url": "https://ameren.wd1.myworkdayjobs.com/collegiate",
+    "provider": "workday"
+  },
+  {
+    "name": "Amgen",
+    "source": "fortune500",
+    "careers_url": "https://amgen.wd1.myworkdayjobs.com/agency",
+    "provider": "workday"
+  },
+  {
+    "name": "Analog Devices",
+    "source": "fortune500",
+    "careers_url": "https://analogdevices.wd1.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "Andersons",
+    "source": "fortune500",
+    "careers_url": "https://andersonsinc.wd1.myworkdayjobs.com/theandersonscareers",
+    "provider": "workday"
+  },
+  {
+    "name": "APA",
+    "source": "fortune500",
+    "careers_url": "https://apa.wd105.myworkdayjobs.com/apa-careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Assurant",
+    "source": "fortune500",
+    "careers_url": "https://assurant.wd1.myworkdayjobs.com/assurant_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "AT&T",
+    "source": "fortune500",
+    "careers_url": "https://att.wd1.myworkdayjobs.com/attcollege",
+    "provider": "workday"
+  },
+  {
+    "name": "Avis Budget Group",
+    "source": "fortune500",
+    "careers_url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Avnet",
+    "source": "fortune500",
+    "careers_url": "https://avnet.wd1.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "Baker Hughes",
+    "source": "fortune500",
+    "careers_url": "https://bakerhughes.wd5.myworkdayjobs.com/bakerhughes",
+    "provider": "workday"
+  },
+  {
+    "name": "Baxter International",
+    "source": "fortune500",
+    "careers_url": "https://baxter.wd1.myworkdayjobs.com/baxter",
+    "provider": "workday"
+  },
+  {
+    "name": "BJ's Wholesale Club",
+    "source": "fortune500",
+    "careers_url": "https://bjswholesaleclub.wd1.myworkdayjobs.com/bjscareers",
+    "provider": "workday"
+  },
+  {
+    "name": "BlackRock",
+    "source": "fortune500",
+    "careers_url": "https://blackrock.wd1.myworkdayjobs.com/blackrock_professional",
+    "provider": "workday"
+  },
+  {
+    "name": "Blackstone",
+    "source": "fortune500",
+    "careers_url": "https://blackstone.wd1.myworkdayjobs.com/blackstone_campus_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Boeing",
+    "source": "fortune500",
+    "careers_url": "https://boeing.wd1.myworkdayjobs.com/aaeoy",
+    "provider": "workday"
+  },
+  {
+    "name": "BorgWarner",
+    "source": "fortune500",
+    "careers_url": "https://borgwarner.wd5.myworkdayjobs.com/borgwarner_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Bristol-Myers Squibb",
+    "source": "fortune500",
+    "careers_url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/bms",
+    "provider": "workday"
+  },
+  {
+    "name": "Broadcom",
+    "source": "fortune500",
+    "careers_url": "https://broadcom.wd1.myworkdayjobs.com/external_career",
+    "provider": "workday"
+  },
+  {
+    "name": "Campbell Soup",
+    "source": "fortune500",
+    "careers_url": "https://campbellsoup.wd5.myworkdayjobs.com/externalcareers_globalsite",
+    "provider": "workday"
+  },
+  {
+    "name": "Cardinal Health",
+    "source": "fortune500",
+    "careers_url": "https://cardinalhealth.wd1.myworkdayjobs.com/contractor",
+    "provider": "workday"
+  },
+  {
+    "name": "CarMax",
+    "source": "fortune500",
+    "careers_url": "https://carmax.wd1.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "Centene",
+    "source": "fortune500",
+    "careers_url": "https://centene.wd5.myworkdayjobs.com/centene_external",
+    "provider": "workday"
+  },
+  {
+    "name": "CF Industries Holdings",
+    "source": "fortune500",
+    "careers_url": "https://cfindustries.wd1.myworkdayjobs.com/careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Chevron",
+    "source": "fortune500",
+    "careers_url": "https://chevron.wd5.myworkdayjobs.com/jobs",
+    "provider": "workday"
+  },
+  {
+    "name": "C.H. Robinson Worldwide",
+    "source": "fortune500",
+    "careers_url": "https://chrobinson.wd5.myworkdayjobs.com/chrobinson",
+    "provider": "workday"
+  },
+  {
+    "name": "Cigna Group",
+    "source": "fortune500",
+    "careers_url": "https://cigna.wd5.myworkdayjobs.com/cignacareers",
+    "provider": "workday"
+  },
+  {
+    "name": "Citigroup",
+    "source": "fortune500",
+    "careers_url": "https://citi.wd5.myworkdayjobs.com/citi_early_careers_events_site",
+    "provider": "workday"
+  },
+  {
+    "name": "Comcast",
+    "source": "fortune500",
+    "careers_url": "https://comcast.wd5.myworkdayjobs.com/comcast_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Conagra Brands",
+    "source": "fortune500",
+    "careers_url": "https://conagrabrands.wd1.myworkdayjobs.com/careers_can",
+    "provider": "workday"
+  },
+  {
+    "name": "Corteva",
+    "source": "fortune500",
+    "careers_url": "https://corteva.wd5.myworkdayjobs.com/corteva",
+    "provider": "workday"
+  },
+  {
+    "name": "Crown Holdings",
+    "source": "fortune500",
+    "careers_url": "https://crownholdings.wd501.myworkdayjobs.com/crownholdings",
+    "provider": "workday"
+  },
+  {
+    "name": "CVS Health",
+    "source": "fortune500",
+    "careers_url": "https://cvshealth.wd1.myworkdayjobs.com/cvs_health_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Danaher",
+    "source": "fortune500",
+    "careers_url": "https://danaher.wd1.myworkdayjobs.com/beckmancoulterdiagnosticsjobs",
+    "provider": "workday"
+  },
+  {
+    "name": "DaVita",
+    "source": "fortune500",
+    "careers_url": "https://davita.wd1.myworkdayjobs.com/dkc_external",
+    "provider": "workday"
+  },
+  {
+    "name": "Dick's Sporting Goods",
+    "source": "fortune500",
+    "careers_url": "https://dickssportinggoods.wd1.myworkdayjobs.com/dsg",
+    "provider": "workday"
+  },
+  {
+    "name": "Dollar Tree",
+    "source": "fortune500",
+    "careers_url": "https://dollartree.wd5.myworkdayjobs.com/dollartreeca",
+    "provider": "workday"
+  },
+  {
+    "name": "Dow",
+    "source": "fortune500",
+    "careers_url": "https://dow.wd1.myworkdayjobs.com/externalcareers",
+    "provider": "workday"
+  },
+  {
+    "name": "DuPont",
+    "source": "fortune500",
+    "careers_url": "https://dupont.wd5.myworkdayjobs.com/jobs",
+    "provider": "workday"
+  },
+  {
+    "name": "DXC Technology",
+    "source": "fortune500",
+    "careers_url": "https://dxctechnology.wd1.myworkdayjobs.com/asjobs",
+    "provider": "workday"
+  },
+  {
+    "name": "Ebay",
+    "source": "fortune500",
+    "careers_url": "https://ebay.wd5.myworkdayjobs.com/tcgplayer_external_career",
+    "provider": "workday"
+  },
+  {
+    "name": "Ecolab",
+    "source": "fortune500",
+    "careers_url": "https://ecolab.wd1.myworkdayjobs.com/ecolab_external",
+    "provider": "workday"
+  },
+  {
+    "name": "Edison International",
+    "source": "fortune500",
+    "careers_url": "https://edison.wd3.myworkdayjobs.com/edison",
+    "provider": "workday"
+  },
+  {
+    "name": "Elevance Health",
+    "source": "fortune500",
+    "careers_url": "https://elevancehealth.wd1.myworkdayjobs.com/ant",
+    "provider": "workday"
+  },
+  {
+    "name": "Equinix",
+    "source": "fortune500",
+    "careers_url": "https://equinix.wd1.myworkdayjobs.com/applications_by_invitations",
+    "provider": "workday"
+  },
+  {
+    "name": "Fannie Mae",
+    "source": "fortune500",
+    "careers_url": "https://fanniemae.wd1.myworkdayjobs.com/fanniemaecareers",
+    "provider": "workday"
+  },
+  {
+    "name": "FedEx",
+    "source": "fortune500",
+    "careers_url": "https://fedex.wd1.myworkdayjobs.com/fcc_external",
+    "provider": "workday"
+  },
+  {
+    "name": "Fiserv",
+    "source": "fortune500",
+    "careers_url": "https://fiserv.wd5.myworkdayjobs.com/ext",
+    "provider": "workday"
+  },
+  {
+    "name": "Fox",
+    "source": "fortune500",
+    "careers_url": "https://fox.wd1.myworkdayjobs.com/domestic",
+    "provider": "workday"
+  },
+  {
+    "name": "Gap",
+    "source": "fortune500",
+    "careers_url": "https://gapinc.wd1.myworkdayjobs.com/gapconfidential",
+    "provider": "workday"
+  },
+  {
+    "name": "General Motors",
+    "source": "fortune500",
+    "careers_url": "https://generalmotors.wd5.myworkdayjobs.com/careers_gm",
+    "provider": "workday"
+  },
+  {
+    "name": "Henry Schein",
+    "source": "fortune500",
+    "careers_url": "https://henryschein.wd1.myworkdayjobs.com/external_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Home Depot",
+    "source": "fortune500",
+    "careers_url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot",
+    "provider": "workday"
+  },
+  {
+    "name": "HP",
+    "source": "fortune500",
+    "careers_url": "https://hpinc.wd5.myworkdayjobs.com/hpinc",
+    "provider": "workday"
+  },
+  {
+    "name": "Humana",
+    "source": "fortune500",
+    "careers_url": "https://humana.wd5.myworkdayjobs.com/centerwell_external_career_site",
+    "provider": "workday"
+  },
+  {
+    "name": "Huntsman",
+    "source": "fortune500",
+    "careers_url": "https://huntsman.wd1.myworkdayjobs.com/huntsman",
+    "provider": "workday"
+  },
+  {
+    "name": "Ingredion",
+    "source": "fortune500",
+    "careers_url": "https://ingredion.wd1.myworkdayjobs.com/ingredioncareers",
+    "provider": "workday"
+  },
+  {
+    "name": "IQVIA Holdings",
+    "source": "fortune500",
+    "careers_url": "https://iqvia.wd1.myworkdayjobs.com/iqvia",
+    "provider": "workday"
+  },
+  {
+    "name": "Jabil",
+    "source": "fortune500",
+    "careers_url": "https://jabil.wd5.myworkdayjobs.com/jabil_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Kimberly-Clark",
+    "source": "fortune500",
+    "careers_url": "https://kimberlyclark.wd1.myworkdayjobs.com/apac",
+    "provider": "workday"
+  },
+  {
+    "name": "KLA",
+    "source": "fortune500",
+    "careers_url": "https://kla.wd1.myworkdayjobs.com/annarbor",
+    "provider": "workday"
+  },
+  {
+    "name": "Kohl's",
+    "source": "fortune500",
+    "careers_url": "https://kohls.wd1.myworkdayjobs.com/kohlscareers",
+    "provider": "workday"
+  },
+  {
+    "name": "Kyndryl Holdings",
+    "source": "fortune500",
+    "careers_url": "https://kyndryl.wd5.myworkdayjobs.com/ismcareers",
+    "provider": "workday"
+  },
+  {
+    "name": "Land O'Lakes",
+    "source": "fortune500",
+    "careers_url": "https://landolakes.wd1.myworkdayjobs.com/landolakes",
+    "provider": "workday"
+  },
+  {
+    "name": "Leidos Holdings",
+    "source": "fortune500",
+    "careers_url": "https://leidos.wd5.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "Lennar",
+    "source": "fortune500",
+    "careers_url": "https://lennar.wd1.myworkdayjobs.com/lennar_jobs",
+    "provider": "workday"
+  },
+  {
+    "name": "LKQ",
+    "source": "fortune500",
+    "careers_url": "https://lkqcorp.wd5.myworkdayjobs.com/externalcareersite-lkq",
+    "provider": "workday"
+  },
+  {
+    "name": "Loews",
+    "source": "fortune500",
+    "careers_url": "https://loewscorp.wd1.myworkdayjobs.com/loewscorp",
+    "provider": "workday"
+  },
+  {
+    "name": "Lowe's",
+    "source": "fortune500",
+    "careers_url": "https://lowes.wd5.myworkdayjobs.com/lws_external_cs",
+    "provider": "workday"
+  },
+  {
+    "name": "LPL Financial Holdings",
+    "source": "fortune500",
+    "careers_url": "https://lplfinancial.wd1.myworkdayjobs.com/atria",
+    "provider": "workday"
+  },
+  {
+    "name": "Markel",
+    "source": "fortune500",
+    "careers_url": "https://markelcorp.wd5.myworkdayjobs.com/globalcareers",
+    "provider": "workday"
+  },
+  {
+    "name": "Masco",
+    "source": "fortune500",
+    "careers_url": "https://masco.wd1.myworkdayjobs.com/behr",
+    "provider": "workday"
+  },
+  {
+    "name": "Mastercard",
+    "source": "fortune500",
+    "careers_url": "https://mastercard.wd1.myworkdayjobs.com/campus",
+    "provider": "workday"
+  },
+  {
+    "name": "McKesson",
+    "source": "fortune500",
+    "careers_url": "https://mckesson.wd3.myworkdayjobs.com/acquisition_campus",
+    "provider": "workday"
+  },
+  {
+    "name": "MGM Resorts International",
+    "source": "fortune500",
+    "careers_url": "https://mgmresorts.wd5.myworkdayjobs.com/306",
+    "provider": "workday"
+  },
+  {
+    "name": "Mosaic",
+    "source": "fortune500",
+    "careers_url": "https://mosaic.wd5.myworkdayjobs.com/broadbean_external",
+    "provider": "workday"
+  },
+  {
+    "name": "Motorola Solutions",
+    "source": "fortune500",
+    "careers_url": "https://motorolasolutions.wd5.myworkdayjobs.com/careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Nationwide",
+    "source": "fortune500",
+    "careers_url": "https://nationwide.wd1.myworkdayjobs.com/nationwide_career",
+    "provider": "workday"
+  },
+  {
+    "name": "NCR",
+    "source": "fortune500",
+    "careers_url": "https://ncr.wd1.myworkdayjobs.com/ext_apac",
+    "provider": "workday"
+  },
+  {
+    "name": "NGL Energy Partners",
+    "source": "fortune500",
+    "careers_url": "https://nglenergypartners.wd5.myworkdayjobs.com/jobs",
+    "provider": "workday"
+  },
+  {
+    "name": "Nike",
+    "source": "fortune500",
+    "careers_url": "https://nike.wd1.myworkdayjobs.com/nke",
+    "provider": "workday"
+  },
+  {
+    "name": "Nordstrom",
+    "source": "fortune500",
+    "careers_url": "https://nordstrom.wd501.myworkdayjobs.com/nordstrom_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Northwestern Mutual",
+    "source": "fortune500",
+    "careers_url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Old Republic International",
+    "source": "fortune500",
+    "careers_url": "https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle",
+    "provider": "workday"
+  },
+  {
+    "name": "Oneok",
+    "source": "fortune500",
+    "careers_url": "https://oneok.wd1.myworkdayjobs.com/oneok",
+    "provider": "workday"
+  },
+  {
+    "name": "Oshkosh",
+    "source": "fortune500",
+    "careers_url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/oshkosh",
+    "provider": "workday"
+  },
+  {
+    "name": "Otis Worldwide",
+    "source": "fortune500",
+    "careers_url": "https://otis.wd5.myworkdayjobs.com/rec_ext_gateway",
+    "provider": "workday"
+  },
+  {
+    "name": "Ovintiv",
+    "source": "fortune500",
+    "careers_url": "https://ovintiv.wd3.myworkdayjobs.com/ovintivcareers",
+    "provider": "workday"
+  },
+  {
+    "name": "Owens & Minor",
+    "source": "fortune500",
+    "careers_url": "https://owensminor.wd1.myworkdayjobs.com/omcareers",
+    "provider": "workday"
+  },
+  {
+    "name": "Pacific Life",
+    "source": "fortune500",
+    "careers_url": "https://pacificlife.wd1.myworkdayjobs.com/pacificlifecareers",
+    "provider": "workday"
+  },
+  {
+    "name": "PBF Energy",
+    "source": "fortune500",
+    "careers_url": "https://pbfenergy.wd1.myworkdayjobs.com/pbf",
+    "provider": "workday"
+  },
+  {
+    "name": "Pfizer",
+    "source": "fortune500",
+    "careers_url": "https://pfizer.wd1.myworkdayjobs.com/broadbean_external",
+    "provider": "workday"
+  },
+  {
+    "name": "Polaris",
+    "source": "fortune500",
+    "careers_url": "https://polaris.wd5.myworkdayjobs.com/polarisjobs",
+    "provider": "workday"
+  },
+  {
+    "name": "PulteGroup",
+    "source": "fortune500",
+    "careers_url": "https://pultegroup.wd1.myworkdayjobs.com/pgi",
+    "provider": "workday"
+  },
+  {
+    "name": "PVH",
+    "source": "fortune500",
+    "careers_url": "https://pvh.wd1.myworkdayjobs.com/pvh_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Rite Aid",
+    "source": "fortune500",
+    "careers_url": "https://riteaid.wd1.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "Robert Half International",
+    "source": "fortune500",
+    "careers_url": "https://roberthalf.wd1.myworkdayjobs.com/protivitiapac",
+    "provider": "workday"
+  },
+  {
+    "name": "Rockwell Automation",
+    "source": "fortune500",
+    "careers_url": "https://rockwellautomation.wd1.myworkdayjobs.com/external-kalypso",
+    "provider": "workday"
+  },
+  {
+    "name": "SpartanNash",
+    "source": "fortune500",
+    "careers_url": "https://spartannash.wd1.myworkdayjobs.com/spartannash_careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Stryker",
+    "source": "fortune500",
+    "careers_url": "https://stryker.wd1.myworkdayjobs.com/strykercareers",
+    "provider": "workday"
+  },
+  {
+    "name": "Synchrony Financial",
+    "source": "fortune500",
+    "careers_url": "https://synchronyfinancial.wd5.myworkdayjobs.com/careers",
+    "provider": "workday"
+  },
+  {
+    "name": "Sysco",
+    "source": "fortune500",
+    "careers_url": "https://sysco.wd5.myworkdayjobs.com/syscocareers",
+    "provider": "workday"
+  },
+  {
+    "name": "Target",
+    "source": "fortune500",
+    "careers_url": "https://target.wd5.myworkdayjobs.com/targetcareers",
+    "provider": "workday"
+  },
+  {
+    "name": "TJX",
+    "source": "fortune500",
+    "careers_url": "https://tjx.wd1.myworkdayjobs.com/tjx_external",
+    "provider": "workday"
+  },
+  {
+    "name": "Travelers",
+    "source": "fortune500",
+    "careers_url": "https://travelers.wd5.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "Tyson Foods",
+    "source": "fortune500",
+    "careers_url": "https://tysonfoods.wd5.myworkdayjobs.com/cvt",
+    "provider": "workday"
+  },
+  {
+    "name": "Unum Group",
+    "source": "fortune500",
+    "careers_url": "https://unum.wd1.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "Viatris",
+    "source": "fortune500",
+    "careers_url": "https://viatris.wd5.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "Visa",
+    "source": "fortune500",
+    "careers_url": "https://visa.wd5.myworkdayjobs.com/visa",
+    "provider": "workday"
+  },
+  {
+    "name": "VMware",
+    "source": "fortune500",
+    "careers_url": "https://vmware.wd1.myworkdayjobs.com/vmware",
+    "provider": "workday"
+  },
+  {
+    "name": "Walmart",
+    "source": "fortune500",
+    "careers_url": "https://walmart.wd5.myworkdayjobs.com/non-workdayinternal",
+    "provider": "workday"
+  },
+  {
+    "name": "Westlake",
+    "source": "fortune500",
+    "careers_url": "https://westlake.wd1.myworkdayjobs.com/westlake",
+    "provider": "workday"
+  },
+  {
+    "name": "Williams",
+    "source": "fortune500",
+    "careers_url": "https://williams.wd5.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "Xcel Energy",
+    "source": "fortune500",
+    "careers_url": "https://xcelenergy.wd1.myworkdayjobs.com/external",
+    "provider": "workday"
+  },
+  {
+    "name": "Zoetis",
+    "source": "fortune500",
+    "careers_url": "https://zoetis.wd5.myworkdayjobs.com/broadbean_external",
+    "provider": "workday"
+  },
+  {
+    "name": "Coupang",
+    "source": "fortune500",
+    "careers_url": "https://job-boards.greenhouse.io/coupang",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "EQT",
+    "source": "fortune500",
+    "careers_url": "https://job-boards.greenhouse.io/eqtcorporation",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Interpublic Group",
+    "source": "fortune500",
+    "careers_url": "https://job-boards.greenhouse.io/interpublicgroup",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "KKR",
+    "source": "fortune500",
+    "careers_url": "https://job-boards.greenhouse.io/kkr",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Kraft Heinz",
+    "source": "fortune500",
+    "careers_url": "https://job-boards.greenhouse.io/kraftheinz",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "ODP",
+    "source": "fortune500",
+    "careers_url": "https://job-boards.greenhouse.io/odpcorp",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "Wayfair",
+    "source": "fortune500",
+    "careers_url": "https://job-boards.greenhouse.io/wayfair",
+    "provider": "greenhouse"
+  },
+  {
+    "name": "MetLife",
+    "source": "fortune500",
+    "careers_url": "https://jobs.lever.co/metlife",
+    "provider": "lever"
+  },
+  {
+    "name": "Aflac",
+    "source": "fortune500",
+    "careers_url": "https://careers-aflac.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Alaska Air Group",
+    "source": "fortune500",
+    "careers_url": "https://careers-alaskaair.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Aramark",
+    "source": "fortune500",
+    "careers_url": "https://careers-aramark.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Berry Global Group",
+    "source": "fortune500",
+    "careers_url": "https://careers-berryglobal.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Celanese",
+    "source": "fortune500",
+    "careers_url": "https://careers-celanese.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Constellation Energy",
+    "source": "fortune500",
+    "careers_url": "https://careers-constellationenergy.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Dollar General",
+    "source": "fortune500",
+    "careers_url": "https://careers-dollargeneral.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "EMCOR Group",
+    "source": "fortune500",
+    "careers_url": "https://careers-emcorgroup.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Exelon",
+    "source": "fortune500",
+    "careers_url": "https://careers-exeloncorp.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "General Dynamics",
+    "source": "fortune500",
+    "careers_url": "https://careers-generaldynamics.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Goldman Sachs Group",
+    "source": "fortune500",
+    "careers_url": "https://careers-goldmansachs.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Intuit",
+    "source": "fortune500",
+    "careers_url": "https://careers-intuit.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Keurig Dr Pepper",
+    "source": "fortune500",
+    "careers_url": "https://careers-keurigdrpepper.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "MasTec",
+    "source": "fortune500",
+    "careers_url": "https://careers-mastec.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "PepsiCo",
+    "source": "fortune500",
+    "careers_url": "https://careers-pepsico.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Quest Diagnostics",
+    "source": "fortune500",
+    "careers_url": "https://careers-questdiagnostics.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Steel Dynamics",
+    "source": "fortune500",
+    "careers_url": "https://careers-steeldynamics.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "StoneX Group",
+    "source": "fortune500",
+    "careers_url": "https://careers-stonex.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Toll Brothers",
+    "source": "fortune500",
+    "careers_url": "https://careers-tollbrothers.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Tractor Supply",
+    "source": "fortune500",
+    "careers_url": "https://careers-tractorsupply.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  },
+  {
+    "name": "Universal Health Services",
+    "source": "fortune500",
+    "careers_url": "https://careers-universalhealthservices.icims.com/jobs/search?ss=1&in_iframe=1",
+    "provider": "icims"
+  }
+]

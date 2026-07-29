@@ -1,0 +1,96 @@
+# Shared title/location/visa/trust filters — same criteria as career-ops-watch's
+# portals.yml (kept in sync manually). tracked_companies is generated per-batch
+# by scripts/scan-leg.mjs from config/companies.json, not hardcoded here.
+
+title_filter:
+  positive:
+    # -- Applied / Research Scientist / GenAI / LLM / Agentic --
+    - "Applied Scientist"
+    - "Research Scientist"
+    - "Applied AI"
+    - "Machine Learning Scientist"
+    - "AI Research"
+    - "LLM"
+    - "NLP"
+    - "Agentic"
+    - "RAG"
+    - "GenAI"
+    - "Generative AI"
+    # -- Data Scientist / Applied DS / Research Data Scientist --
+    - "Data Scientist Intern"
+    - "Data Science Intern"
+    - "Applied Data Scientist"
+    - "Research Data Scientist"
+    # -- Software Engineer / SWE (+ close variants) --
+    - "Software Engineer Intern"
+    - "SWE Intern"
+    - "ML Engineer Intern"
+    - "Machine Learning Engineer Intern"
+    - "Platform Engineer Intern"
+    - "ML Infrastructure Intern"
+    - "ML Platform Intern"
+    # -- Quant Research + Quant Trading (+ close variants) --
+    - "Quantitative Research Intern"
+    - "Quant Research Intern"
+    - "Quantitative Researcher"
+    - "Quant Researcher"
+    - "Quantitative Developer Intern"
+    - "Quant Developer Intern"
+    - "Quantitative Developer"
+    - "Quant Trader"
+    - "Quantitative Analyst"
+    - "Quantitative Trading"
+  negative:
+    - ".NET"
+    - "PHP"
+    - "Embedded"
+    - "Firmware"
+    - "FPGA"
+    - "ASIC"
+    - "Blockchain"
+    - "Web3"
+    - "Crypto Trading"
+    - "Salesforce Admin"
+    - "SAP "
+    - "Mainframe"
+    - "COBOL"
+    - "Full-time"
+  seniority_boost:
+    - "Intern"
+    - "Summer 2027"
+    - "2027"
+    - "PhD"
+    - "MS"
+
+location_filter:
+  always_allow:
+    - "United States"
+    - "Atlanta"
+  allow:
+    - "Remote"
+    - "United States"
+    - "USA"
+    - "US"
+    - "Atlanta"
+    - "New York"
+    - "San Francisco"
+    - "Seattle"
+    - "Chicago"
+    - "Austin"
+    - "Boston"
+  block:
+    - "India"
+    - "Bengaluru"
+    - "United Kingdom"
+    - "London"
+    - "Germany"
+    - "Singapore"
+    - "China"
+    - "Canada"
+
+visa_filter:
+  enabled: true
+  require_mention: false
+
+trust_filter:
+  enabled: true
