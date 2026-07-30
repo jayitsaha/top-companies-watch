@@ -239,3 +239,23 @@ timestamp	company	status
 2026-07-30T12:16:20.255Z	Ameren	empty
 2026-07-30T12:16:20.255Z	Amgen	reachable
 2026-07-30T12:16:20.255Z	Analog Devices	reachable
+2026-07-30T14:55:18.601Z	Cockroach Labs	reachable
+2026-07-30T14:55:18.601Z	Locus Robotics	reachable
+2026-07-30T14:55:18.601Z	Replicate	slug_gone
+2026-07-30T14:55:18.601Z	Codeium	slug_gone
+2026-07-30T14:55:18.601Z	Workato	reachable
+2026-07-30T14:55:18.601Z	Weaviate	reachable
+2026-07-30T14:55:18.601Z	Seldon	slug_gone
+2026-07-30T14:55:18.601Z	Retool	slug_gone
+2026-07-30T14:55:18.601Z	Deel	empty
+2026-07-30T14:55:18.601Z	DeepMind	reachable
+2026-07-30T14:55:18.601Z	Linear	reachable
+2026-07-30T14:55:18.601Z	BentoML	slug_gone
+2026-07-30T14:55:18.601Z	AES	reachable
+2026-07-30T14:55:18.601Z	AGCO	reachable
+2026-07-30T14:55:18.601Z	Albemarle	auth
+2026-07-30T14:55:18.601Z	Alcoa	reachable
+2026-07-30T14:55:18.601Z	Allstate	reachable
+2026-07-30T14:55:18.601Z	Ameren	empty
+2026-07-30T14:55:18.601Z	Amgen	reachable
+2026-07-30T14:55:18.601Z	Analog Devices	reachable
