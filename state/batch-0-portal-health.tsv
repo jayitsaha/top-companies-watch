@@ -1119,3 +1119,23 @@ timestamp	company	status
 2026-08-03T16:08:39.586Z	Gong	slug_gone
 2026-08-03T16:08:39.586Z	Shopify	slug_gone
 2026-08-03T16:08:39.586Z	Discord	reachable
+2026-08-03T18:24:21.233Z	NVIDIA	reachable
+2026-08-03T18:24:21.233Z	Google	unknown
+2026-08-03T18:24:21.233Z	Meta	slug_gone
+2026-08-03T18:24:21.233Z	OpenAI	reachable
+2026-08-03T18:24:21.233Z	Anthropic	reachable
+2026-08-03T18:24:21.233Z	Microsoft	slug_gone
+2026-08-03T18:24:21.233Z	Runway	reachable
+2026-08-03T18:24:21.233Z	Netflix	unknown
+2026-08-03T18:24:21.233Z	Scale AI	reachable
+2026-08-03T18:24:21.233Z	Jane Street	reachable
+2026-08-03T18:24:21.233Z	Jump Trading	reachable
+2026-08-03T18:24:21.233Z	Databricks	reachable
+2026-08-03T18:24:21.233Z	Snowflake	reachable
+2026-08-03T18:24:21.233Z	Adobe	slug_gone
+2026-08-03T18:24:21.233Z	IMC	reachable
+2026-08-03T18:24:21.233Z	Uber	network
+2026-08-03T18:24:21.233Z	Palantir	reachable
+2026-08-03T18:24:21.233Z	Gong	slug_gone
+2026-08-03T18:24:21.233Z	Shopify	slug_gone
+2026-08-03T18:24:21.233Z	Discord	reachable
