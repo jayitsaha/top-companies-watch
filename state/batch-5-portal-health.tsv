@@ -1359,3 +1359,23 @@ timestamp	company	status
 2026-08-04T20:53:51.641Z	Turo	reachable
 2026-08-04T20:53:51.641Z	Cisco	reachable
 2026-08-04T20:53:51.641Z	DeepL	reachable
+2026-08-04T22:41:19.608Z	Pinterest	reachable
+2026-08-04T22:41:19.608Z	Reddit	empty
+2026-08-04T22:41:19.608Z	Cloudflare	reachable
+2026-08-04T22:41:19.608Z	Atlassian	slug_gone
+2026-08-04T22:41:19.608Z	Duolingo	reachable
+2026-08-04T22:41:19.608Z	Chime	reachable
+2026-08-04T22:41:19.608Z	Gusto	reachable
+2026-08-04T22:41:19.608Z	Workday	reachable
+2026-08-04T22:41:19.608Z	Fivetran	reachable
+2026-08-04T22:41:19.608Z	Amplitude	reachable
+2026-08-04T22:41:19.608Z	dbt Labs	slug_gone
+2026-08-04T22:41:19.608Z	Grammarly	slug_gone
+2026-08-04T22:41:19.608Z	Zoom	reachable
+2026-08-04T22:41:19.608Z	Dropbox	reachable
+2026-08-04T22:41:19.608Z	Anyscale	reachable
+2026-08-04T22:41:19.608Z	Vanta	reachable
+2026-08-04T22:41:19.608Z	Carvana	network
+2026-08-04T22:41:19.608Z	Turo	reachable
+2026-08-04T22:41:19.608Z	Cisco	reachable
+2026-08-04T22:41:19.608Z	DeepL	reachable
