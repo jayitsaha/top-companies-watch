@@ -1919,3 +1919,23 @@ timestamp	company	status
 2026-08-07T16:30:03.014Z	Roblox	reachable
 2026-08-07T16:30:03.014Z	Robinhood	reachable
 2026-08-07T16:30:03.014Z	Instacart	reachable
+2026-08-07T17:30:18.740Z	Canva	slug_gone
+2026-08-07T17:30:18.740Z	Kraken	empty
+2026-08-07T17:30:18.740Z	Yelp	slug_gone
+2026-08-07T17:30:18.740Z	Stitch Fix	reachable
+2026-08-07T17:30:18.740Z	Wiz	reachable
+2026-08-07T17:30:18.740Z	Snyk	slug_gone
+2026-08-07T17:30:18.740Z	Materialize	slug_gone
+2026-08-07T17:30:18.740Z	Starburst	reachable
+2026-08-07T17:30:18.740Z	Klaviyo	reachable
+2026-08-07T17:30:18.740Z	Zendesk	reachable
+2026-08-07T17:30:18.740Z	Intercom	reachable
+2026-08-07T17:30:18.740Z	Flexport	network
+2026-08-07T17:30:18.740Z	Anduril Industries	network
+2026-08-07T17:30:18.740Z	Grubhub	unknown
+2026-08-07T17:30:18.740Z	SailPoint	reachable
+2026-08-07T17:30:18.740Z	Block	reachable
+2026-08-07T17:30:18.740Z	CrowdStrike	reachable
+2026-08-07T17:30:18.740Z	Roblox	network
+2026-08-07T17:30:18.740Z	Robinhood	reachable
+2026-08-07T17:30:18.740Z	Instacart	reachable
