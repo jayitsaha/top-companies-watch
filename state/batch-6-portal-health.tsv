@@ -1819,3 +1819,23 @@ timestamp	company	status
 2026-08-07T09:39:49.014Z	Pulumi	reachable
 2026-08-07T09:39:49.014Z	Modal	reachable
 2026-08-07T09:39:49.014Z	HashiCorp	slug_gone
+2026-08-07T11:27:49.573Z	Abnormal Security	reachable
+2026-08-07T11:27:49.573Z	CodeSignal	slug_gone
+2026-08-07T11:27:49.573Z	Gemini	reachable
+2026-08-07T11:27:49.573Z	Ramp	reachable
+2026-08-07T11:27:49.573Z	LangChain	reachable
+2026-08-07T11:27:49.573Z	AssemblyAI	reachable
+2026-08-07T11:27:49.573Z	Jasper	slug_gone
+2026-08-07T11:27:49.573Z	Roboflow	reachable
+2026-08-07T11:27:49.573Z	Superannotate	reachable
+2026-08-07T11:27:49.573Z	Groq	slug_gone
+2026-08-07T11:27:49.573Z	Labelbox	reachable
+2026-08-07T11:27:49.573Z	PostHog	reachable
+2026-08-07T11:27:49.573Z	WorldQuant	reachable
+2026-08-07T11:27:49.573Z	Notion	reachable
+2026-08-07T11:27:49.573Z	Vercel	reachable
+2026-08-07T11:27:49.573Z	Netlify	reachable
+2026-08-07T11:27:49.573Z	Replit	reachable
+2026-08-07T11:27:49.573Z	Pulumi	reachable
+2026-08-07T11:27:49.573Z	Modal	reachable
+2026-08-07T11:27:49.573Z	HashiCorp	slug_gone
