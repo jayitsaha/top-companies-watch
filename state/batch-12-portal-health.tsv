@@ -3839,3 +3839,23 @@ timestamp	company	status
 2026-08-12T19:47:10.573Z	Sysco	reachable
 2026-08-12T19:47:10.573Z	Target	reachable
 2026-08-12T19:47:10.573Z	TJX	reachable
+2026-08-12T21:28:10.905Z	Oneok	reachable
+2026-08-12T21:28:10.905Z	Oshkosh	reachable
+2026-08-12T21:28:10.905Z	Otis Worldwide	unknown
+2026-08-12T21:28:10.905Z	Ovintiv	empty
+2026-08-12T21:28:10.905Z	Owens & Minor	network
+2026-08-12T21:28:10.905Z	Pacific Life	network
+2026-08-12T21:28:10.905Z	PBF Energy	network
+2026-08-12T21:28:10.905Z	Pfizer	auth
+2026-08-12T21:28:10.905Z	Polaris	reachable
+2026-08-12T21:28:10.905Z	PulteGroup	network
+2026-08-12T21:28:10.905Z	PVH	reachable
+2026-08-12T21:28:10.905Z	Rite Aid	network
+2026-08-12T21:28:10.905Z	Robert Half International	network
+2026-08-12T21:28:10.905Z	Rockwell Automation	auth
+2026-08-12T21:28:10.905Z	SpartanNash	network
+2026-08-12T21:28:10.905Z	Stryker	network
+2026-08-12T21:28:10.905Z	Synchrony Financial	reachable
+2026-08-12T21:28:10.905Z	Sysco	reachable
+2026-08-12T21:28:10.905Z	Target	reachable
+2026-08-12T21:28:10.905Z	TJX	reachable
