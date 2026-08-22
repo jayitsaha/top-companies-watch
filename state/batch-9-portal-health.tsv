@@ -7859,3 +7859,23 @@ timestamp	company	status
 2026-08-22T07:17:02.235Z	Ecolab	network
 2026-08-22T07:17:02.235Z	Edison International	unknown
 2026-08-22T07:17:02.235Z	Elevance Health	network
+2026-08-22T07:59:21.973Z	Chevron	reachable
+2026-08-22T07:59:21.973Z	C.H. Robinson Worldwide	reachable
+2026-08-22T07:59:21.973Z	Cigna Group	reachable
+2026-08-22T07:59:21.973Z	Citigroup	reachable
+2026-08-22T07:59:21.973Z	Comcast	auth
+2026-08-22T07:59:21.973Z	Conagra Brands	reachable
+2026-08-22T07:59:21.973Z	Corteva	reachable
+2026-08-22T07:59:21.973Z	Crown Holdings	reachable
+2026-08-22T07:59:21.973Z	CVS Health	reachable
+2026-08-22T07:59:21.973Z	Danaher	auth
+2026-08-22T07:59:21.973Z	DaVita	reachable
+2026-08-22T07:59:21.973Z	Dick's Sporting Goods	reachable
+2026-08-22T07:59:21.973Z	Dollar Tree	reachable
+2026-08-22T07:59:21.973Z	Dow	reachable
+2026-08-22T07:59:21.973Z	DuPont	reachable
+2026-08-22T07:59:21.973Z	DXC Technology	empty
+2026-08-22T07:59:21.973Z	Ebay	reachable
+2026-08-22T07:59:21.973Z	Ecolab	reachable
+2026-08-22T07:59:21.973Z	Edison International	unknown
+2026-08-22T07:59:21.973Z	Elevance Health	reachable
