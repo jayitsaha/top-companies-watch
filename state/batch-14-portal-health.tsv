@@ -10019,3 +10019,23 @@ timestamp	company	status
 2026-08-29T09:21:43.141Z	Toll Brothers	slug_gone
 2026-08-29T09:21:43.141Z	Tractor Supply	slug_gone
 2026-08-29T09:21:43.141Z	Universal Health Services	server
+2026-08-29T14:40:57.394Z	Alaska Air Group	empty
+2026-08-29T14:40:57.394Z	Aramark	slug_gone
+2026-08-29T14:40:57.394Z	Berry Global Group	slug_gone
+2026-08-29T14:40:57.394Z	Celanese	slug_gone
+2026-08-29T14:40:57.394Z	Constellation Energy	empty
+2026-08-29T14:40:57.394Z	Dollar General	slug_gone
+2026-08-29T14:40:57.394Z	EMCOR Group	reachable
+2026-08-29T14:40:57.394Z	Exelon	empty
+2026-08-29T14:40:57.394Z	General Dynamics	reachable
+2026-08-29T14:40:57.394Z	Goldman Sachs Group	slug_gone
+2026-08-29T14:40:57.394Z	Intuit	slug_gone
+2026-08-29T14:40:57.394Z	Keurig Dr Pepper	slug_gone
+2026-08-29T14:40:57.394Z	MasTec	empty
+2026-08-29T14:40:57.394Z	PepsiCo	network
+2026-08-29T14:40:57.394Z	Quest Diagnostics	slug_gone
+2026-08-29T14:40:57.394Z	Steel Dynamics	reachable
+2026-08-29T14:40:57.394Z	StoneX Group	reachable
+2026-08-29T14:40:57.394Z	Toll Brothers	slug_gone
+2026-08-29T14:40:57.394Z	Tractor Supply	slug_gone
+2026-08-29T14:40:57.394Z	Universal Health Services	reachable
